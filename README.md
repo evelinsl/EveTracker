@@ -4,13 +4,19 @@ A tracking scripts that pushes your SL location to an external api endpoint ever
 
 Tracking can be toggled by clicking the item.
 
-Point "ApiLocationEndpoint" to you api endpoint for storage of your where abouts.
+Point `ApiLocationEndpoint` to you api endpoint for storage of your where abouts.
 
 # API Processing
 
 How you process the tracking data is up to you. The posted payload is an CSV string containing location and region data:
 
 `x,y,parcelname,regionname`
+
+
+## Todo
+
+- Add to the `z` payload
+- Add locking
 
 ## License
 
