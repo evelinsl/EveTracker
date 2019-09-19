@@ -6,7 +6,7 @@ Tracking can be toggled by clicking the item.
 
 Point `ApiLocationEndpoint` to you api endpoint for storage of your where abouts.
 
-# API Processing
+## API Processing
 
 How you process the tracking data is up to you. The posted payload is an CSV string containing location and region data:
 
@@ -23,7 +23,7 @@ How you process the tracking data is up to you. The posted payload is an CSV str
 - You are free to use and modify this script for personal usage.
 - You are NOT allowed to sell items with this script in it.
 - You are NOT allowed to sell this script.
-- *You are NOT allowed to give this script to others without they knowing about it! Please respect the privacy of others!*
+- **You are NOT allowed to give this script to others without they knowing about it! Please respect the privacy of others!**
 
 
 ---
