@@ -1,4 +1,4 @@
-# EveLock  
+# EveTracker  
 
 A tracking scripts that pushes your SL location to an external api endpoint every 60 seconds.
 
